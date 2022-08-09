@@ -1,0 +1,4 @@
+artifacts/
+
+# Local .terraform directories
+**/.terraform/*
